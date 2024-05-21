@@ -1,0 +1,143 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "tel": "+1234567890",
+      "email": "john.doe@example.com",
+      "password": "securepassword123"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "tel": "+1234567891",
+      "email": "jane.smith@example.com",
+      "password": "securepassword124"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "tel": "+1234567892",
+      "email": "alice.johnson@example.com",
+      "password": "securepassword125"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Williams",
+      "tel": "+1234567893",
+      "email": "bob.williams@example.com",
+      "password": "securepassword126"
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Brown",
+      "tel": "+1234567894",
+      "email": "charlie.brown@example.com",
+      "password": "securepassword127"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Jones",
+      "tel": "+1234567895",
+      "email": "david.jones@example.com",
+      "password": "securepassword128"
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Garcia",
+      "tel": "+1234567896",
+      "email": "eve.garcia@example.com",
+      "password": "securepassword129"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Miller",
+      "tel": "+1234567897",
+      "email": "frank.miller@example.com",
+      "password": "securepassword130"
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Martinez",
+      "tel": "+1234567898",
+      "email": "grace.martinez@example.com",
+      "password": "securepassword131"
+    },
+    {
+      "firstName": "Hank",
+      "lastName": "Rodriguez",
+      "tel": "+1234567899",
+      "email": "hank.rodriguez@example.com",
+      "password": "securepassword132"
+    },
+    {
+      "firstName": "Ivy",
+      "lastName": "Martinez",
+      "tel": "+12345678910",
+      "email": "ivy.martinez@example.com",
+      "password": "securepassword133"
+    },
+    {
+      "firstName": "Jake",
+      "lastName": "Lopez",
+      "tel": "+12345678911",
+      "email": "jake.lopez@example.com",
+      "password": "securepassword134"
+    },
+    {
+      "firstName": "Karen",
+      "lastName": "Gonzalez",
+      "tel": "+12345678912",
+      "email": "karen.gonzalez@example.com",
+      "password": "securepassword135"
+    },
+    {
+      "firstName": "Leo",
+      "lastName": "Wilson",
+      "tel": "+12345678913",
+      "email": "leo.wilson@example.com",
+      "password": "securepassword136"
+    },
+    {
+      "firstName": "Mia",
+      "lastName": "Anderson",
+      "tel": "+12345678914",
+      "email": "mia.anderson@example.com",
+      "password": "securepassword137"
+    },
+    {
+      "firstName": "Nick",
+      "lastName": "Thomas",
+      "tel": "+12345678915",
+      "email": "nick.thomas@example.com",
+      "password": "securepassword138"
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Taylor",
+      "tel": "+12345678916",
+      "email": "olivia.taylor@example.com",
+      "password": "securepassword139"
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Lee",
+      "tel": "+12345678917",
+      "email": "paul.lee@example.com",
+      "password": "securepassword140"
+    },
+    {
+      "firstName": "Quinn",
+      "lastName": "Perez",
+      "tel": "+12345678918",
+      "email": "quinn.perez@example.com",
+      "password": "securepassword141"
+    },
+    {
+      "firstName": "Rachel",
+      "lastName": "Walker",
+      "tel": "+12345678919",
+      "email": "rachel.walker@example.com",
+      "password": "securepassword142"
+    }
+  ]
+  
